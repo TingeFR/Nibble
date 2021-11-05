@@ -1,0 +1,12 @@
+# Compiled binaries
+bin/
+
+# .NET temporary files
+obj/
+
+# Content Pipeline temporary files
+Content/bin
+Content/obj
+
+# VS Code tasks
+#.vscode/
