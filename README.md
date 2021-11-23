@@ -43,4 +43,9 @@ Pour le dessin pixelisé, nous utiliserons **Pyxel Editor** : [lien de télécha
 Pour les maps, nous utiliserons **Tiled** : [lien de téléchargement](https://www.mapeditor.org/)  
 Pour la musique chiptune, nous utiliserons **FamiTracker** : [lien de téléchargement](http://famitracker.com/)
 
-### 6. On code et on s'enjaille !
+### 6. On code et on s'enjaille !  
+
+## Bibliographie
+- Documentation MonoGame : [lien](https://docs.monogame.net/)
+- Documentation MonoGame Extended : [lien](https://www.monogameextended.net/docs/)
+- Documentation Microsoft XNA Framework : [lien](https://docs.microsoft.com/en-us/previous-versions/windows/xna/bb196942(v=xnagamestudio.42))
