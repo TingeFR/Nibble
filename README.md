@@ -40,7 +40,7 @@ dotnet run --project SpriteFactory
 
 ### 5. (Optionnel) Outils supplémentaires
 Pour le dessin pixelisé, nous utiliserons **Pyxel Editor** : [lien de téléchargement](https://fr.freedownloadmanager.org/Windows-PC/PyxelEdit-GRATUIT.html)  
-Pour les maps, nous utiliserons **Tiled** : [lien de téléchargement](https://www.mapeditor.org/)  
+Pour le level design, nous utiliserons **Tiled** : [lien de téléchargement](https://www.mapeditor.org/)  
 Pour la musique chiptune, nous utiliserons **FamiTracker** : [lien de téléchargement](http://famitracker.com/)
 
 ### 6. On code et on s'enjaille !  
