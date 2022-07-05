@@ -8,5 +8,8 @@ obj/
 Content/bin
 Content/obj
 
+# VS Generated files
+.vs/
+
 # VS Code tasks
 #.vscode/
